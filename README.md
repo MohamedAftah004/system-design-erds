@@ -19,24 +19,6 @@ All ERDs are **conceptual designs** focused purely on data modeling—not implem
 
 ---
 
-## Repository Structure
-
-system-design-erds/
-├── maintenance-service-system/
-│ ├── erd.png
-│ └── README.md
-├── e-learning-platform/
-│ ├── erd.png
-│ └── README.md
-└── README.md
-
-Each subdirectory represents an independent case study containing:
-
-- A visual ERD diagram (`erd.png`)
-- A detailed README explaining requirements, entities, and key design decisions
-
----
-
 ## Case Studies
 
 | System                                                      | Domain         | Key Focus Areas                                                                       |
