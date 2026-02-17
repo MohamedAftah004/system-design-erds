@@ -24,7 +24,7 @@ All ERDs are **conceptual designs** focused purely on data modeling—not implem
 | System                                                      | Domain         | Key Focus Areas                                                                       |
 | ----------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------- |
 | [`maintenance-service-system`](maintenance-service-system/) | Field Services | Request lifecycle, approval workflows, technician assignment, soft deletes            |
-| [`e-learning-platform`](e-learning-platform/)               | EdTech         | Adaptive learning, progress tracking, AI-driven risk analysis, recommendation engines |
+| [`e-learning-platform`](E-Learning-Platform/)               | EdTech         | Adaptive learning, progress tracking, AI-driven risk analysis, recommendation engines |
 
 ---
 
